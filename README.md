@@ -20,6 +20,11 @@ Game premise or short one to two sentence overview
 # Game Play Summary
 ## Playability
 ### Single/Multiplayer
+# Single 
+-
+# Multiplayer 
+The game  offers  no multiplayer freatures.
+
 ### Controls
 # Bugs
 What bugs happened during your critique.
