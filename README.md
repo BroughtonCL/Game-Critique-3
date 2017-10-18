@@ -11,7 +11,7 @@ metacritic score 63%
 ## Publisher
 Microsoft Studios
 ## Developer
-Comcept Armature Studio
+Comcept & Armature Studio
 ## Publishing Date
 September 13, 2016
 # Synopsis
