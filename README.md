@@ -1,19 +1,19 @@
 # Game-Critique-3
 # Information
 ## Game Title
-Full title of the game.
+ReCore.
 ## Game Type
 The genre and play style of the game
 ## Platform
-What systems do they play on besides the PC master race?
+XboxOne and  PC 
 ## Game Rating
 metacritic score 
 ## Publisher
-who released this pile of code
+Microsoft Studios
 ## Developer
-Who made this pile of code
+Comcept Armature Studio
 ## Publishing Date
-When did they make it?
+September 13, 2016
 # Synopsis
 Game premise or short one to two sentence overview
 
@@ -21,7 +21,6 @@ Game premise or short one to two sentence overview
 ## Playability
 ### Single/Multiplayer
 ### Controls
-
 # Bugs
 What bugs happened during your critique.
 # Final Thoughts
