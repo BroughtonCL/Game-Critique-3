@@ -3,7 +3,7 @@
 ## Game Title
 ReCore.
 ## Game Type
-The genre and play style of the game
+action-adventure and puzzle solving.
 ## Platform
 XboxOne and  PC 
 ## Game Rating
