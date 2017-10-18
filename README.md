@@ -7,7 +7,7 @@ The genre and play style of the game
 ## Platform
 XboxOne and  PC 
 ## Game Rating
-metacritic score 
+metacritic score 63% 
 ## Publisher
 Microsoft Studios
 ## Developer
