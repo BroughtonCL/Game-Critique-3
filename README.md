@@ -15,7 +15,8 @@ Comcept & Armature Studio
 ## Publishing Date
 September 13, 2016
 # Synopsis
-Game premise or short one to two sentence overview
+Joule Adams, one of the first volunteers for the utopian colony of Far Eden, who wakes after centuries in cryo-sleep to find that nothing has gone according to plan
+The open world environment of Far Eden is subject to exploration and the collection of resources.
 
 # Game Play Summary
 ## Playability
