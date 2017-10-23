@@ -29,6 +29,6 @@ The game  offers  no multiplayer freatures.
 ### Controls
 These  are standard controls  . The Robot  Companies  controls  can be  confusing at times . Having  different  characters  use  with the  same buttons with just a slight  changes  with charcters makes it confusing for  the  player.
 # Bugs
-What bugs happened during your critique.
+The main bug I encountered  was  the  player  geta stuck in  objects (eg,a rock ) you must  restart the  the  game  to fixs  the  bug  .
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+Overall, the game  is  entertaning and keeps  you  interestwith the  chanllange and  story  , however  the  game  does  feel slow  at  times  because  of  it  lack locator you  chould  easliy get lost  . 
