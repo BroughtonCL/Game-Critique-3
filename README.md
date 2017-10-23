@@ -22,11 +22,12 @@ The open world environment of Far Eden is subject to exploration and the collect
 ## Playability
 ### Single/Multiplayer
 # Single 
--
+The Game offers  a  opened  world  game play  . Single player offers  story mode  and  challenges within the story .
 # Multiplayer 
 The game  offers  no multiplayer freatures.
 
 ### Controls
+These  are standard controls  . The Robot  Companies  controls  can be  confusing at times . Having  different  characters  use  with the  same buttons with just a slight  changes  with charcters makes it confusing for  the  player.
 # Bugs
 What bugs happened during your critique.
 # Final Thoughts
