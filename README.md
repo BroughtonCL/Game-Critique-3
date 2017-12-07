@@ -19,7 +19,9 @@ Joule Adams, one of the first volunteers for the utopian colony of Far Eden, who
 The open world environment of Far Eden is subject to exploration and the collection of resources.
 
 # Game Play Summary
+
 ## Playability
+Meduim to High
 ### Single/Multiplayer
 # Single 
 The Game offers  a  opened  world  game play  . Single player offers  story mode  and  challenges within the story .
